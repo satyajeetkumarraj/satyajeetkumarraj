@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Quantum Computing | AI/ML Research</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/satyajeetkumarraj">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
@@ -19,9 +19,9 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/satyajeetkumarraj">LinkedIn</a> |
   <a href="https://twitter.com/YOUR_HANDLE">Twitter/X</a> |
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/satyajeetkumarraj">GitHub</a>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ---
 
 ## 📌 Featured Projects
-- [Project 1 Name](https://github.com/YOUR_USERNAME/PROJECT1) — Short one-line description
+- [Project 1 Name](https://github.com/satyajeetkumarraj/quantum-otfs) — Quantum-OTFS Transceiver Library
 - [Project 2 Name](https://github.com/YOUR_USERNAME/PROJECT2) — Short one-line description
 - [Project 3 Name](https://github.com/YOUR_USERNAME/PROJECT3) — Short one-line description
 
