@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, Satyajeet Kumar Raj</h1>
 <h3 align="center">Python Developer | Quantum Computing | AI/ML Research</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🔭 Currently working on **Quantum Computing and AI/ML projects**
 - 🌱 Currently learning **advanced ML, Qiskit, and research workflows**
 - 💬 Ask me about **Python, Machine Learning, Quantum Computing**
-- 📫 Reach me at **your_email@example.com**
+- 📫 Reach me at **styaraj.nke@gmail.com**
 
 ---
 
